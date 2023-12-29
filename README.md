@@ -23,3 +23,7 @@ try:
 
 except KeyboardInterrupt:
     GPIO.cleanup()
+
+
+
+circuit diagram:(https://user-images.githubusercontent.com/11957243/54884972-204a0800-4e9f-11e9-9d22-28af1fead8cd.png) 
